@@ -8,6 +8,9 @@
     Created by me on a research to find new audience metrics for websites, using a chrome plugin.
   </p>
   
+  <p>Please, check out a demo on:</p>
+  https://www.useloom.com/share/a1a69ccc7672489b994219afc620b82d
+  
   How to test:
 
 - Download code and install manually on chrome browser (developer mode)
